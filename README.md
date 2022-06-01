@@ -1,10 +1,10 @@
 <h1>Hello, welcome 👋 </h1>
 
- 👋 Hi, I’m Marcela <br>
- 👀 I’m interested in tech, books and trips. <br>
- 🌱 I’m currently learning React. <br>
+ 👩‍💻 Hi, I’m Marcela <br>
+ 🧩 I’m interested in tech, books and trips. <br>
+ 📚 I’m currently learning React. <br>
 
-Focused on Front-End and Salesforce ✨
+Focused on Front-End and Salesforce 💙
 
 <div align="center">
   <a href="https://github.com/ssuni9">
