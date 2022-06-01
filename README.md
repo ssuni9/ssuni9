@@ -2,7 +2,7 @@
 
  👋 Hi, I’m Marcela <br>
  👀 I’m interested in tech, books and trips. <br>
- 🌱 I’m currently learning JavaScript and Java. <br>
+ 🌱 I’m currently learning React. <br>
 
 Focused on Front-End and Salesforce ✨
 
